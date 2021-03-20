@@ -1,0 +1,9 @@
+[
+{"id": 1, "nombre":"Juan", "sexo":"m"},
+{"id": 2, "nombre":"Pedro", "sexo":"m"},
+{"id": 3, "nombre":"Anna", "sexo":"f"},
+{"id": 4, "nombre":"Julieta", "sexo":"f"},
+{"id": 5, "nombre":"Pablo", "sexo":"m"},
+{"id": 6, "nombre":"Ramón", "sexo":"m"},
+{"id": 7, "nombre":"Gaby", "sexo":"f"}
+]

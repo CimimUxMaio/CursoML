@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<datos>
+	<cliente id="1">
+		<nombre>Juan</nombre>
+		<sexo>m</sexo>
+	</cliente>
+	<cliente id="2">
+		<nombre>Pedro</nombre>
+		<sexo>m</sexo>
+	</cliente>
+	<cliente id="3">
+		<nombre>Anna</nombre>
+		<sexo>f</sexo>
+	</cliente>
+	<cliente id="4">
+		<nombre>Julieta</nombre>
+		<sexo>f</sexo>
+	</cliente>
+	<cliente id="5">
+		<nombre>Pablo</nombre>
+		<sexo>m</sexo>
+	</cliente>
+	<cliente id="6">
+		<nombre>Roman</nombre>
+		<sexo>m</sexo>
+	</cliente>
+	<cliente id="7">
+		<nombre>Gaby</nombre>
+		<sexo>f</sexo>
+	</cliente>
+</datos>
